@@ -1,0 +1,438 @@
+@media only screen and (min-width: 1200px) {
+#about_bg > h2 {
+    padding-top: 160px;
+}
+section#contact_bg {
+    height: 450px;
+    background-image: url(../img/contact.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 100% 100%;
+}
+
+}
+@media only screen and (max-width: 1199px) {
+#about_bg > h2 {
+    padding-top: 96px;
+}
+#portfolio_bg > h2 {
+    padding-top: 70px;
+    }
+    #portfolio_page .hovereffect a.info {
+    display: inline-block;
+    text-decoration: none;
+    padding: 5px 10px;
+    border: 1px solid #fff;
+    margin: 24px 0 0 0;
+    background-color: #15a1a1;
+}
+#portfolio_page .hovereffect h2 {
+text-transform: uppercase;
+text-align: center;
+position: relative;
+font-size: 16px;
+padding: 8px;
+background: rgba(21, 161, 161, 0.7);
+margin-top: 20px;
+}
+}
+
+@media only screen and (max-width: 1100px) {
+
+#about_bg > h2 {
+    padding-top: 96px;
+}
+#portfolio_bg > h2 {
+    padding-top: 70px;
+    }
+}
+@media only screen and (max-width: 1060px) {
+
+
+}
+@media only screen and (max-width: 1024px) {
+   .menu_color > li > a {color: #15a1a1 !important; font-size: 20px; padding: 12px 11px; }
+   section#about_bg {
+    height: 344px;
+    background-image: url(../img/aboutus.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 77% 0%;
+}
+#about_bg > h2 {
+    padding-top: 96px;
+    } 
+
+#about_bg > p {
+    padding-left: 104px;
+    color: #fff;
+} 
+#portfolio_page .hovereffect h2 {
+    text-transform: uppercase;
+    text-align: center;
+    position: relative;
+    font-size: 17px;
+    padding: 8px;
+    background: rgba(21, 161, 161, 0.7);
+    margin-top: 20px;
+}
+#portfolio_page .hovereffect h2 {
+text-transform: uppercase;
+text-align: center;
+position: relative;
+font-size: 16px;
+padding: 8px;
+background: rgba(21, 161, 161, 0.7);
+margin-top: 20px;
+}
+   /*.navbar-header {float: none; }
+ .navbar-toggle {display: block; } 
+ .navbar-collapse {border-top: 1px solid transparent; box-shadow: inset 0 1px 0 rgba(255,255,255,0.1); } 
+ .navbar-collapse.collapse {display: none!important; } 
+ .navbar-nav {float: none!important; margin: 7.5px -15px; } 
+ .navbar-nav>li {float: none; } 
+ .navbar-nav>li>a {padding-top: 10px; padding-bottom: 10px; } 
+ .navbar-text {float: none; margin: 15px 0; } 
+ .navbar-collapse.collapse.in {display: block!important; } 
+ .collapsing {overflow: hidden!important; }*/
+}
+@media only screen and (max-width: 991px) {
+#portfolio_bg > h2 {
+    padding-top: 70px;
+    }
+}
+@media only screen and (max-width: 980px) {
+.menu_color > li > a {
+    color: #15a1a1 !important;
+    font-size: 20px;
+    padding: 10px 13px;
+}
+}
+@media only screen and (max-width: 900px) {
+
+}
+@media only screen and (max-width: 980px) {
+#portfolio_page .hovereffect a.info {
+    display: inline-block;
+    text-decoration: none;
+    padding: 5px 10px;
+    border: 1px solid #fff;
+    margin: 24px 0 0 0;
+    background-color: #15a1a1;
+}
+#portfolio_page .hovereffect h2 {
+text-transform: uppercase;
+text-align: center;
+position: relative;
+font-size: 16px;
+padding: 8px;
+background: rgba(21, 161, 161, 0.7);
+margin-top: 20px;
+}
+}
+@media only screen and (max-width: 910px) {
+.menu_color > li > a {color: #15a1a1 !important; font-size: 20px; padding: 12px 14px; }
+#portfolio_bg > h2 {
+    padding-top: 70px;
+    }
+}
+@media only screen and (max-width: 880px) {
+
+.menu_color > li > a {color: #15a1a1 !important; font-size: 20px; padding: 12px 14px; }
+.site_heading > a {font-size: 15px; }
+section#about_bg {
+    height: 233px;
+    background-image: url(../img/aboutus.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+#about_bg > h2 {
+    padding-top: 70px;
+    
+    }
+}
+@media only screen and (max-width: 800px) {
+
+}
+@media only screen and (max-width: 768px) {
+
+.navbar-toggle {margin-top: 26px; } 
+.scroll-down {padding-bottom: 10px; font-size: 40px; margin: 16px 0px 0px; }
+.effect ul {margin-right: 0px; margin-top: 0px; text-align:center; }
+#quote-carousel .carousel-indicators li {width: 50px; height: 50px; /* margin: 5px;*/ margin: -63px 5px; cursor: pointer; border: 4px solid #CCC; border-radius: 50px; opacity: 0.4; overflow: hidden; transition: all 0.4s; }
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background:none!important;
+}
+.navbar-default .navbar-toggle {
+    border:none;
+}
+section#about_bg {height: 256px; background-image: url("../img/aboutus.jpg"); background-repeat: no-repeat; background-attachment: fixed; background-position: 34% 15%; background-size: auto; } 
+#about_bg > h2 {
+    padding-top: 78px;
+    font-weight: 500;
+    letter-spacing: 2px;
+    font-size: 42px;
+    text-align: center;
+    
+    color: #fff;
+}
+#about_bg > p {
+    font-size: 22px;
+    text-align: center;
+}
+
+#about_bg > h2 {
+    padding-top: 96px;
+    font-size: 40px;
+}
+section#contact_bg {
+    height: 450px;
+    background-image: url(../img/contact.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 53% 100%;
+}
+section#portfolio_bg {
+    height: 300px;
+    background-image: url(../img/portfolio/contact_banner.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 10% 20%;
+}
+#portfolio_bg > h2 {
+    padding-top: 70px;
+    font-weight: 500;
+}
+.img_width{
+  
+  width:100%;
+  padding-top:18px;
+  padding-bottom:18px;
+
+}
+
+#portfolio_page .hovereffect a.info {
+    display: inline-block;
+    text-decoration: none;
+    padding: 5px 10px;
+    border: 1px solid #fff;
+    margin: 24px 0 0 0;
+    background-color: #15a1a1;
+}
+#portfolio_page .hovereffect h2 {
+text-transform: uppercase;
+text-align: center;
+position: relative;
+font-size: 16px;
+padding: 8px;
+background: rgba(21, 161, 161, 0.7);
+margin-top: 20px;
+}
+}
+
+
+@media only screen and (max-width: 767px) {
+
+/*.navbar .navbar-nav {display: inline-block; float: none; vertical-align: top; } 
+.navbar .navbar-collapse {text-align: center; }
+.navbar-toggle {position: relative; float: right; padding: 9px 10px; margin: -63px 5px; background-color: transparent; background-image: none; border: 1px solid transparent; border-radius: 4px; }*/
+.scroll-down {padding-bottom: 10px; font-size: 40px; margin: 16px 0px 0px; }
+.effect ul {margin-right: 0px; margin-top: 0px; text-align:center; }
+
+#quote-carousel .carousel-indicators li {width: 50px; height: 50px; /* margin: 5px;*/ margin-top:0px; margin-left:5px; margin-right:5px; margin-bottom:0px; cursor: pointer; border: 4px solid #CCC; border-radius: 50px; opacity: 0.4; overflow: hidden; transition: all 0.4s; }
+.social > ul > li > a {width: 48px; height: 48px; }
+.effect img {width: 45px !important; height: 35px !important; transition: 1s all ease; margin-top: 3px; } 
+.effect .navbar-toggle {padding: 9px 10px;border: none; margin-top: 6px; margin-right: 15px; margin-bottom: 8px; }
+
+.effect .navbar-default .navbar-toggle .icon-bar {
+    background: #fff !important;
+}
+.navbar-default .navbar-toggle {
+    border: none;
+}
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background:none!important;
+}
+.navbar-default .navbar-toggle {
+    border:none;
+}
+#about_bg > h2 {padding-top: 96px; font-weight: 500; letter-spacing: 2px; font-size: 29px; text-align: center; padding-left: 31px; color: #fff; }
+#about_bg > p {padding-left: 28px; color: #fff; font-size: 18px; text-align: center; }
+#about_bg > p {
+    font-size: 22px;
+    text-align: center;
+}
+
+#about_bg > h2 {
+    padding-top: 96px;
+    font-size: 40px;
+}
+}
+@media only screen and (max-width: 667px) {
+#about_bg > p {
+    font-size: 22px;
+    text-align: center;
+}
+
+#about_bg > h2 {
+    padding-top: 96px;
+    font-size: 40px;
+}
+section#contact_bg {
+    height: 450px;
+    background-image: url(../img/contact.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 60% 100%;
+}
+
+.img_width{
+  
+  width:100%;
+  padding-top:18px;
+  padding-bottom:18px;
+
+}
+}
+@media only screen and (max-width: 640px) {
+    #about_bg > p {
+    font-size: 22px;
+    text-align: center;
+}
+
+#about_bg > h2 {
+    padding-top: 96px;
+    font-size: 40px;
+}
+#portfolio_page .hovereffect a.info {
+    display: inline-block;
+    text-decoration: none;
+    padding: 5px 14px;
+    border: 1px solid #fff;
+    margin: 50px 0 0 0;
+    background-color: #15a1a1;
+}
+#portfolio_page .hovereffect h2 {
+    text-transform: uppercase;
+    text-align: center;
+    position: relative;
+    font-size: 19px;
+    padding: 12px;
+    background: rgba(21, 161, 161, 0.7);
+    margin-top: 70px;
+}
+}
+@media only screen and (max-width: 600px) {
+
+#about_bg > h2 {padding-top: 96px; font-weight: 500; letter-spacing: 2px; font-size: 29px; text-align: center; padding-left: 31px; color: #fff; }
+#about_bg > p {padding-left: 28px; color: #fff; font-size: 18px; text-align: center; }
+section#portfolio_bg {
+    height: 450px;
+    background-size: cover;
+    background-position: 34% 20%;
+}
+#portfolio_bg > p {
+    padding-left:0px;
+    color: #000;
+    font-size: 18px;
+    text-align: center;
+    padding: 10px;
+}
+}
+@media only screen and (max-width: 568px) {
+
+}
+@media only screen and (max-width: 536px) {
+
+@media only screen and (max-width: 508px) {
+
+}
+@media only screen and (max-width: 480px) {
+    section#parallax .intro > h2 {padding-top: 45px; text-align: center; font-size: 50px; letter-spacing: .2em; text-shadow: 0px 0px 1px black; -moz-text-shadow: 0px 0px 1px black; -webkit-text-shadow: 0px 0px 1px black; color: #15a1a1 !important; }
+    section#parallax .intro > p {text-align: center; font-size: 16px; line-height: 25px; font-family: "Droid Sans",sans-serif; margin-left: auto; margin-right: auto;  color: #353030; font-weight: bold; } 
+    .scroll-down {padding-bottom: 10px; font-size: 40px; margin: 20px 0px 0px; }
+    .navbar-toggle {position: relative; float: right; padding: 9px 10px; margin-top: 22px; margin-right: 15px; margin-bottom: 8px; background-color: transparent; background-image: none; }
+    section#contact_bg {height: 450px; background-image: url("../img/contact.jpg"); background-repeat: no-repeat; background-attachment: fixed; background-position: 27% 15%; background-size: auto; }
+
+    #contact_bg > p {padding-left: 0px; color: #000; text-align: center; font-size: 20px; }
+    #contact_bg > h2 {padding-top: 130px; font-weight: 500; letter-spacing: 2px; font-size: 35px; text-align: center; color: #15A1A1; padding-left: 0px; }
+    section#about_bg {height:300px; background-image: url("../img/aboutus.jpg"); background-repeat: no-repeat; background-attachment: fixed; background-position: 34% 15%; background-size: auto; }
+    #about_bg > h2 {padding-top: 130px; font-weight: 500; letter-spacing: 2px; font-size: 29px; text-align: center; padding-left: 31px; color: #fff; }
+    #about_bg > p {padding-left: 28px; color: #fff; font-size: 18px; text-align: center; }
+    .about_text{color:#fff; padding-top:10px; }
+    .about_margin{margin-top:0px; }
+    #quote-carousel .carousel-control.right {right: 0px; }
+    #quote-carousel .carousel-control.left {left: 0px; }
+    section#portfolio_bg {
+    height: 280px;
+    background-image: url(../img/portfolio/contact_banner.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 10% 20%;
+}
+
+#portfolio_bg > h2 {padding-top: 100px; font-weight: 500; letter-spacing: 2px; font-size: 29px; text-align: center; padding-left: 15px; color: #15a1a1; } 
+#portfolio_bg > p {padding-left:0px;     color: #000; font-size: 15px; text-align: center; padding: 8px; } 
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background:none!important;
+}
+.navbar-default .navbar-toggle {
+    border:none;
+}
+.social > ul > li > a {width: 48px; height: 48px; }
+.effect img {width: 45px !important; height: 35px !important; transition: 1s all ease; margin-top: 3px; } 
+.effect .navbar-toggle {padding: 9px 10px;border: none; margin-top: 6px; margin-right: 15px; margin-bottom: 8px; }
+
+.effect .navbar-default .navbar-toggle .icon-bar {
+    background: #fff !important;
+}
+
+
+.img_width{
+  
+  width:100%;
+  padding-top:18px;
+  padding-bottom:18px;
+
+}
+
+#portfolio_page .hovereffect h2 {
+    text-transform: uppercase;
+    text-align: center;
+    position: relative;
+    font-size: 19px;
+    padding: 12px;
+    background: rgba(21, 161, 161, 0.7);
+    margin-top: 43px;
+    
+}
+@media only screen and (max-width: 414px) {
+
+} 
+@media only screen and (max-width: 400px) {
+
+} 
+@media only screen and (max-width: 360px) {
+
+}
+@media only screen and (max-width: 340px) {
+
+}
+@media only screen and (max-width: 320px) {
+
+.social > ul > li > a {width: 48px; height: 48px; }
+.effect img {width: 45px !important; height: 35px !important; transition: 1s all ease; margin-top: 3px; } 
+.effect .navbar-toggle {padding: 9px 10px;border: none; margin-top: 6px; margin-right: 15px; margin-bottom: 8px; }
+
+.effect .navbar-default .navbar-toggle .icon-bar {
+    background: #fff !important;
+}
+ }
